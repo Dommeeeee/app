@@ -721,7 +721,6 @@ export default function App() {
               <label className="user-label" style={{
                 position: 'absolute',
                 left: '15px',
-                color: '#9ca3af',
                 pointerEvents: 'none',
                 transform: formData.name ? 'translateY(-50%) scale(0.8)' : 'translateY(1rem)',
                 transition: '150ms cubic-bezier(0.4,0,0.2,1)',
@@ -752,7 +751,6 @@ export default function App() {
               <label className="user-label" style={{
                 position: 'absolute',
                 left: '15px',
-                color: '#9ca3af',
                 pointerEvents: 'none',
                 transform: formData.nickname ? 'translateY(-50%) scale(0.8)' : 'translateY(1rem)',
                 transition: '150ms cubic-bezier(0.4,0,0.2,1)',
@@ -788,7 +786,6 @@ export default function App() {
                 position: 'absolute',
                 left: '15px',
                 top: '1rem',
-                color: '#9ca3af',
                 pointerEvents: 'none',
                 transform: formData.memory ? 'translateY(-50%) scale(0.8)' : 'translateY(0)',
                 transition: '150ms cubic-bezier(0.4,0,0.2,1)',
@@ -825,7 +822,6 @@ export default function App() {
                 position: 'absolute',
                 left: '15px',
                 top: '1rem',
-                color: '#9ca3af',
                 pointerEvents: 'none',
                 transform: formData.message ? 'translateY(-50%) scale(0.8)' : 'translateY(0)',
                 transition: '150ms cubic-bezier(0.4,0,0.2,1)',
